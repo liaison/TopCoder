@@ -1,3 +1,4 @@
+package misc;
 /*
 // 
  * SRM 232 DIV II * 

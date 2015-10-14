@@ -1,3 +1,4 @@
+package srm670;
 /*
  * SRM 670 Div II
  * Oct 10, 2015
